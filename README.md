@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Samuel Benicewicz</h1>
-<h3 align="center">I am currently getting a Bachelor's Degree in Computer Science from the University of Texas at Dallas</h3>
+<h3 align="center">I am currently earning a Bachelor's Degree in Computer Science from the University of Texas at Dallas</h3>
 
 - 🔭 I have experience with JavaScript, C++, Python, Java, APIs, Bots, Svelte, TypeScript, React.js, Node.js, HTML, and CSS
 - 🌱 I’m currently learning Java, Data Structures, and Databases
